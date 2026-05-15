@@ -24,6 +24,8 @@ public class App {
 
         System.out.println(isPrime ? "Prime" : "Not Prime");
 System.out.println("MY PROGRAM IS COMPLED ");
+System.out.println("robin author : !! ");
+
         sc.close();
     }
 }
